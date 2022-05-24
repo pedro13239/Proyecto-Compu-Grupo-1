@@ -14,7 +14,7 @@ a{text-shadow: #171879 3px 3px 8px; font-size: 20px; text-decoration: none; back
 a:link {color: #800080;}
 a:hover{color: black;}
 a:active{color:#171879}
-img:hover{filter: grayscale(100%);}
+img:hover{filter: grayscale(100%); border-radius: 50%; }
 aside img:hover {transform:scale(1.4); border-radius: 50%; transform: scaleX(-1);}
 footer img{width: 15%;}
 
